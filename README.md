@@ -1,7 +1,6 @@
 <strong>Pantry</strong>
 <br>
 https://amandacorris.github.io/pantry/
-
 A recipe search app. Users can enter an ingredient(s) they would like to use and find recipes using it.
 <hr>
 Built With:
